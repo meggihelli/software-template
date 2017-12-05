@@ -1,0 +1,114 @@
+header div {
+    display: inline-block;
+}
+
+ol {
+    font-size: .8em;
+    margin: 0;
+    align-content: top;
+}
+
+footer div {
+    display: inline-block;
+}
+
+.checkbox {
+    width: 16px;
+    height: 16px;
+    border: black;
+    border: solid 1px;
+    align-content: left;
+}
+
+.task-complete{
+    width: 240px;
+    text-align: center;
+}
+
+
+.est {
+    width: 35px;
+    height: 17px;
+
+}
+
+.act {
+    border: black;
+    border: solid 1px;
+    align-content: center;
+    width: 45px;
+    height: 20px;
+    margin-top: 8px;
+}
+
+.actt {
+    width: 60px;
+}
+
+.header-row {
+    text-align: left;
+}
+
+th {
+    text-align: left;
+}
+
+.room {
+    width: 60px;
+}
+
+.task {
+    width: 70px;
+}
+
+.one {
+    background-color: lightgray;
+    width: 30px;
+}
+
+.two {
+    width: 30px;
+}
+
+.three {
+    width: 30px;
+}
+
+.four {
+    width: 30px;
+}
+
+.five {
+    background-color: lightgray;
+    width: 30px;
+}
+
+.six {
+    background-color: lightgray;
+    width: 30px;
+}
+
+.seven {
+    width: 30px;
+}
+
+.eight {
+    width: 30px;
+}
+
+.time{
+    border-top: 2px solid black !important;
+    border-bottom: 2px solid black;
+}
+
+.reviewer-sig{
+    text-align: left;
+    width: 450px;
+    border-top: 1px solid black !important;
+}
+
+.provider-sig {
+    width: 400px;
+    border-top: 1px solid black !important;
+}
+
